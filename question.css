@@ -1,0 +1,20 @@
+body{
+    background-color: white;
+    color: black;
+}
+button{
+    background-color: dodgerblue;
+    border: solid black 0px;
+    color: white;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: 0.4s;
+    outline: none;
+}
+button:hover{
+    transition: 0.4s;
+    background-color: rgb(0, 100, 201);
+}
